@@ -16,6 +16,6 @@ Analysis of the relationship between low-income student enrollment (measured by 
 ## Repository Structure
 ```
 ├── STEM-Analysis.ipynb     # Main analysis
-├── data/                   # Datasets
+├── data/                   # Directories to load in the datasets (see instructaions in the notebook)
 └── README.md
 ```
