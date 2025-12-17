@@ -19,6 +19,3 @@ Analysis of the relationship between low-income student enrollment (measured by 
 ├── data/                   # Datasets
 └── README.md
 ```
-
-## How to Run
-Open STEM-Analysis.ipynb
