@@ -12,3 +12,13 @@ Analysis of the relationship between low-income student enrollment (measured by 
 - **Dataset**: College Scorecard (6,000+ institutions, filtered to 595 public bachelor's-granting)
 - **Analysis**: Pearson/Spearman correlation, OLS regression, permutation testing
 - **Tools**: Python, Pandas, Matplotlib, Scipy
+
+## Repository Structure
+```
+├── STEM-Analysis.ipynb     # Main analysis
+├── data/                   # Datasets
+└── README.md
+```
+
+## How to Run
+Open STEM-Analysis.ipynb
